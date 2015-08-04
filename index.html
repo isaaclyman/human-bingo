@@ -1,1 +1,62 @@
-Initial Commit
+<html>
+
+<head>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<link rel="stylesheet" href="styles.css">
+	<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<script src="people.js"></script>
+	<script src="codes.js"></script>
+</head>
+
+<body>
+	<div class="header col-lg-6 col-sm-8 col-xs-12 center">
+		<h1>
+			Human Bingo
+		</h1>
+		<h3>
+			A game by Isaac Lyman & friends.
+		</h3>
+	</div>
+
+	<hr>
+
+	<div class="options col-lg-6 col-sm-8 col-xs-12 center">
+		<h4>Select your gaming style:</h4>
+		<div class="btn-group" data-toggle="buttons">
+			<label class="btn btn-default" id="quickFix">
+				<input type="radio" value="Quick Fix (3x3)" /> Quick Fix (3x3)
+			</label>
+			<label class="btn btn-default" id="halfHour">
+				<input type="radio" value="Half Hour (4x4)" />Half Hour (4x4)
+			</label>
+			<label class="btn btn-default" id="longLayover">
+				<input type="radio" value="Long Layover (5x5)" />Long Layover (5x5)
+			</label>
+		</div>
+		<h4>Joining a friend's game?</h4>
+		<div class="btn-group" data-toggle="buttons">
+			<label class="btn btn-default" id="joinGame">
+				<input type="radio" value="Yep" /> Yep
+			</label>
+			<label class="btn btn-default" id="newGame">
+				<input type="radio" value="Nope" />Nope
+			</label>
+		</div>
+		<div class="hidden" id="codeInput" >
+			<input type="text" class="input form-control short" placeholder="Enter game code"/>
+		</div>
+	</div>
+
+	<hr>
+
+	<div class="go col-lg-6 col-sm-8 col-xs-12 center">
+		<button class="btn btn-success" id="startGame">Start</button>
+	</div>
+
+	<div class="footer col-lg-6 col-sm-8 col-xs-12 center">
+		<a href="https://www.youtube.com/watch?v=6FOUqQt3Kg0">Support respect</a>.
+	</div>
+</body>
+
+</html>

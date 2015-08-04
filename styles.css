@@ -1,0 +1,36 @@
+html,body {
+	background-color: #E9F7EC;
+	width: 100%;
+}
+
+input {
+	margin-top: 6px;
+}
+
+a {
+	color: #555;
+}
+
+a:hover, a:active {
+	color: #AAA;
+}
+
+a:visited {
+	color: #333;
+}
+
+input.short {
+	width: 300px;
+}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+}
+
+.footer {
+	text-align: center;
+	margin-top: 56px;
+	font-size: .8em;
+}
