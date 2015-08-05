@@ -2,7 +2,7 @@ window.people =
 	['Long beard',
 	'Cell phone argument',
 	'Stiletto heels',
-	'Military fatigues',
+	'Military uniform',
 	'Bags under eyes',
 	'Family with 3+ kids',
 	'Asians with camera',
@@ -11,4 +11,36 @@ window.people =
 	'Man in a tank-top',
 
 	'Purple shoes',
-	'Couple kissing'];
+	'Couple kissing',
+	'Pregnant woman',
+	'Age-inappropriate clothing',
+	'Too much cleavage',
+	'Screaming baby',
+	'Drinking coffee',
+	'Barefoot',
+	'Bowtie',
+	'Headphones too loud',
+
+	'College athlete',
+	'Professional basketball fan',
+	'Floral-print pants',
+	'Booty shorts',
+	'Shoulder-length earrings',
+	'Man with a ponytail',
+	'Dreadlocks',
+	'Oxygen tank',
+	'Traditional religious clothing',
+	'Spray tan',
+
+	'Overstuffed backpack or luggage',
+	'Bluetooth earpiece',
+	'Socks and sandals',
+	'Eating on the go',
+	'Redhead',
+	'Obviously in a hurry',
+	'Not-so-subtle gum chewer',
+	'Searching bag for lost item',
+	'European accent',
+	'Formally dressed'
+
+	];

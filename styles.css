@@ -7,6 +7,10 @@ input {
 	margin-top: 6px;
 }
 
+input.short {
+	width: 300px;
+}
+
 a {
 	color: #555;
 }
@@ -19,8 +23,52 @@ a:visited {
 	color: #333;
 }
 
-input.short {
-	width: 300px;
+table {
+	table-layout: fixed;
+}
+
+td {
+	position: relative;
+	width: 20%;
+	height: 150px;
+	padding: 0px 0px;
+	border: 1px solid #DDD;
+	font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+	font-size: 1.1em;
+	text-align: center;
+	cursor: pointer;
+}
+
+td:hover {
+	background-color: #F6F6F4;
+}
+
+span.glyphicon-remove {
+	display: block;
+	position: absolute;
+	width: 100%;
+	height: 150px;
+	line-height: 150px;
+	color: #BB3E3E;
+	filter: alpha(opacity=0);
+	opacity: 0;
+	vertical-align: middle;
+	text-align: center;
+	font-size: 70px;
+	-webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+}
+
+span.glyphicon-remove.done {
+    filter: alpha(opacity=50);
+    opacity: 0.5;
+}
+
+span.text {
+	display: block;
+	padding: 0px 8px;
 }
 
 .center {
@@ -29,8 +77,16 @@ input.short {
 	float: none;
 }
 
+.center-text {
+	text-align: center;
+}
+
 .footer {
 	text-align: center;
 	margin-top: 56px;
 	font-size: .8em;
+}
+
+.strikethrough {
+	text-decoration: line-through;
 }
