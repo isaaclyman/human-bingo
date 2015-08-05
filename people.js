@@ -41,7 +41,7 @@ window.people =
 	'Not-so-subtle gum chewer',
 	'Searching bag for lost item',
 	'European accent',
-	'Formally dressed'
+	'Formally dressed',
 
 	'Belly hanging out',
 	'Caveman eyebrows',
