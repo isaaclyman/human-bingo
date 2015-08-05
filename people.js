@@ -43,4 +43,13 @@ window.people =
 	'European accent',
 	'Formally dressed'
 
-	];
+	'Belly hanging out',
+	'Caveman eyebrows',
+	'Drop-dead gorgeous',
+	'Hair down to waist',
+	'Needs a belt',
+	'Visible bra straps',
+	'Bright pink fingernail polish',
+	'Hairy-bear legs',
+	'Seeing-eye dog',
+	'Obviously lost'];
