@@ -1,14 +1,11 @@
 html,body {
 	background-color: #E9F7EC;
 	width: 100%;
+	font-family: Tahoma, Geneva, sans-serif;
 }
 
 input {
 	margin-top: 6px;
-}
-
-input.short {
-	width: 300px;
 }
 
 a {
@@ -69,6 +66,28 @@ span.glyphicon-remove.done {
 span.text {
 	display: block;
 	padding: 0px 8px;
+}
+
+button#copyToClipboard {
+	height: 34px;
+}
+
+.margin-top {
+	margin-top: 12px;
+}
+
+.align-top {
+	vertical-align: top;
+	top: 0px;
+}
+
+.double-line {
+	height: 4.2em;
+}
+
+.short {
+	display: inline-block;
+	width: 300px;
 }
 
 .center {
