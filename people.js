@@ -75,4 +75,5 @@ window.people =
     'His/her chain hangs low',
     'Energy drink',
     'Head partially shaved'
-     // 70];
+     // 70
+    ];
