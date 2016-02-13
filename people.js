@@ -9,7 +9,7 @@ window.people =
 	'Cowboy hat & boots',
 	'Neon-colored hair',
 	'Man in a tank-top',
-
+     // 10
 	'Purple shoes',
 	'Couple kissing',
 	'Pregnant woman',
@@ -20,7 +20,7 @@ window.people =
 	'Barefoot',
 	'Bowtie',
 	'Headphones too loud',
-
+     // 20
 	'College athlete',
 	'Professional basketball fan',
 	'Floral-print pants',
@@ -31,7 +31,7 @@ window.people =
 	'Oxygen tank',
 	'Traditional religious clothing',
 	'Spray tan',
-
+     // 30
 	'Overstuffed backpack or luggage',
 	'Bluetooth earpiece',
 	'Socks and sandals',
@@ -42,7 +42,7 @@ window.people =
 	'Searching bag for lost item',
 	'European accent',
 	'Formally dressed',
-
+     // 40
 	'Belly hanging out',
 	'Caveman eyebrows',
 	'Drop-dead gorgeous',
@@ -52,4 +52,27 @@ window.people =
 	'Bright pink fingernail polish',
 	'Hairy-bear legs',
 	'Seeing-eye dog',
-	'Obviously lost'];
+	'Obviously lost',
+     // 50
+    'Mismatched socks',
+    'Pajamas',
+    'Unsupervised child',
+    'Video gamer',
+    'Two visible tattoos',
+    'Very muscular',
+    'Timberlake lookalike',
+    'Skinny as a rail',
+    'Dressed in all black',
+    'Smiling for no reason',
+     // 60
+    'Bed head',
+    'Do-rag',
+    'Cane',
+    'Arm covered in bracelets',
+    'Looking around nervously',
+    'Wheelchair',
+    'Gold watch',
+    'His/her chain hangs low',
+    'Energy drink',
+    'Head partially shaved'
+     // 70];
