@@ -76,4 +76,14 @@ window.people =
     'Energy drink',
     'Head partially shaved'
      // 70
-    ];
+    'Man bun',
+    'Ironic T-shirt',
+    'Shorts and tall socks',
+    'Thick glasses',
+    'Probably shops at Hot Topic',
+    'Large drink',
+    'Christian cross',
+    'Working on the go',
+    'Superhero fan',
+    'Crying in public'
+     // 80];
