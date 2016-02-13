@@ -86,4 +86,5 @@ window.people =
     'Working on the go',
     'Superhero fan',
     'Crying in public'
-     // 80];
+     // 80
+    ];
