@@ -74,7 +74,7 @@ window.people =
     'Gold watch',
     'His/her chain hangs low',
     'Energy drink',
-    'Head partially shaved'
+    'Head partially shaved',
      // 70
     'Man bun',
     'Ironic T-shirt',
