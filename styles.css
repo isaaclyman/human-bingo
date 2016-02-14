@@ -20,6 +20,10 @@ a:visited {
 	color: #333;
 }
 
+div.game-table {
+    min-width: 500px;
+}
+
 table {
 	table-layout: fixed;
 }
@@ -66,6 +70,7 @@ span.glyphicon-remove.done {
 span.text {
 	display: block;
 	padding: 0px 8px;
+    font-size: 16px;
 }
 
 button#copyToClipboard {
